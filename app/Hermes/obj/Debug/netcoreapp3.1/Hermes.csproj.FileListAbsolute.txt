@@ -1,0 +1,9 @@
+D:\Projects\Hermes\app\Hermes\obj\Debug\netcoreapp3.1\Hermes.csprojAssemblyReference.cache
+D:\Projects\Hermes\app\Hermes\obj\Debug\netcoreapp3.1\Hermes.AssemblyInfoInputs.cache
+D:\Projects\Hermes\app\Hermes\obj\Debug\netcoreapp3.1\Hermes.AssemblyInfo.cs
+D:\Projects\Hermes\app\Hermes\obj\Debug\netcoreapp3.1\Hermes.csproj.CoreCompileInputs.cache
+D:\Projects\Hermes\app\Hermes\bin\Debug\netcoreapp3.1\Hermes.deps.json
+D:\Projects\Hermes\app\Hermes\bin\Debug\netcoreapp3.1\Hermes.dll
+D:\Projects\Hermes\app\Hermes\bin\Debug\netcoreapp3.1\Hermes.pdb
+D:\Projects\Hermes\app\Hermes\obj\Debug\netcoreapp3.1\Hermes.dll
+D:\Projects\Hermes\app\Hermes\obj\Debug\netcoreapp3.1\Hermes.pdb
